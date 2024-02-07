@@ -347,9 +347,23 @@
 // alert('right answer');
 
 
-let name1 = 'mahi';
-let user = prompt('enter here the right name');
-while(name1 != user){
-  user = prompt('please try again');
-}
-console.log('wow');
+// let name1 = 'mahi';
+// let user = prompt('enter here the right name');
+// while(name1 != user){
+//   user = prompt('please try again');
+// }
+// console.log('wow');
+
+
+
+// let pass = 'programming2023';
+// let user = prompt('Enter your password here');
+// while(pass != user){
+//   user = prompt('wrong password');
+// }
+
+// alert('success');
+
+let str = 'ma'
+console.log('ma');
+console.log(str[0]);
