@@ -521,3 +521,35 @@
 // let companies = ['Bloomberg','Microsoft','Uber','Google',"IBM",'Netflix'];
 // companies.push('Amazon')
 // console.log(companies);
+
+
+// let arr = [300,500,700,900];
+// for(let i = 0; i<arr.length; i++){
+//   let offer = arr[i]/10
+//   arr[i] = arr[i]-offer;
+// }
+// console.log(arr);
+
+// let arr = [200,500,400,800];
+// for(let i = 0; i<arr.length;i++){
+//   arr[i] = arr[i] + 20;
+
+// }
+// console.log(arr);
+
+
+// let str = ['mahi','achol','mim','muaz'];
+// for(let i = 0; i<str.length; i++){
+//   str[i] = "@" + str[i]
+// }
+
+// console.log(str);
+
+
+function myFunc(){
+console.log('mahi');
+console.log('Achol');
+}
+
+
+myFunc();
