@@ -364,6 +364,26 @@
 
 // alert('success');
 
-let str = 'ma'
-console.log('ma');
-console.log(str[0]);
+// let str = 'ma'
+// console.log('ma');
+// console.log(str[0]);
+
+// let temp = `this is a special line`;
+// console.log(typeof temp);
+
+
+// let obj = {
+//   name: 'mahi',
+//   age: 20
+// }
+
+// let output = `my name is ${obj.name} and my age is ${obj.age}`;
+// console.log(output);
+
+
+// let str = "    my name is fatematuz jannat Mahi     ";
+// let upper = str.toUpperCase();
+// let lower = str.toLocaleLowerCase();
+// let trimm = str.trim();
+// console.log(upper,lower,trimm);
+
