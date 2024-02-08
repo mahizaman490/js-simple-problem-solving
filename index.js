@@ -387,3 +387,16 @@
 // let trimm = str.trim();
 // console.log(upper,lower,trimm);
 
+// let str1 = '123456';
+// let str2 = 'mahi';
+// console.log(str1.concat(str2));
+
+// let str ='hello';
+// console.log(str.replace('h','y'));
+
+// let str = 'i love js';
+// console.log(str.charAt(0));
+
+// let str = 'mahi';
+// let str2 = str.replace('m','t')
+// console.log(str2);
