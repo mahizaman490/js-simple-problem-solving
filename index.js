@@ -438,3 +438,43 @@
 // for(let name of names){
 //   console.log(name.toLocaleUpperCase());
 // }
+
+
+// let marks = [85,97,44,37,76,60];
+// let sum = 0;
+// for(let mark of marks){
+// sum = mark + sum;
+
+// }
+// let result = sum / marks.length;
+
+// console.log(result);
+
+// 10/100*price
+
+
+// let prices = [100,300,200,500];
+// for(let price of prices){
+//   let ans = 10/100*price;
+//   let finalAns = price-ans
+//   console.log(finalAns);
+// }
+
+
+// let items = [300,400,500,600];
+// for(let i = 1; i< items.length; i++){
+//   let offer = items[i]/10;
+//   items[i] = items[i] - offer;
+// }
+// console.log(items);
+
+
+
+
+// let items = [200,400,500,900];
+// for(let i = 0; i< items.length; i++){
+//   let offer = items[i]/10;
+//   items[i] = items[i] - offer;
+ 
+// }
+// console.log(items);
