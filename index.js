@@ -546,10 +546,25 @@
 // console.log(str);
 
 
-function myFunc(){
-console.log('mahi');
-console.log('Achol');
-}
+// function myFunc(){
+// console.log('mahi');
+// console.log('Achol');
+// }
 
 
-myFunc();
+// myFunc();
+
+
+
+// function myFunc(msg){
+// console.log(msg);
+// }
+
+// myFunc('mahi');
+
+
+// function mySum(num1,num2){
+//   res = num1 + num2;
+// return res;
+// }
+
