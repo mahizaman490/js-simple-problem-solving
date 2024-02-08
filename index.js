@@ -478,3 +478,46 @@
  
 // }
 // console.log(items);
+
+// let arr = ['tomato','chips','banana'];
+//  let deleted = arr.pop()
+// console.log(arr);
+// console.log(deleted);
+
+
+// let arr = ['tomato','chips','banana'];
+
+// console.log(arr.toString());
+
+
+
+
+// let arr1 = ['tomato','chips','banana'];
+// let arr2 = ['rice','water','tea'];
+// console.log(arr1.concat(arr2));
+
+// let arr1 = ['tomato','chips','banana','apple'];
+// console.log(arr1.slice(1,3));
+
+
+// let arr = [2,4,1,7,5];
+// arr.splice(3,1);
+// console.log(arr);
+
+
+// let arr = [2,4,1,7,5];
+// arr.splice(3);
+// console.log(arr);
+
+
+// let companies = ['Bloomberg','Microsoft','Uber','Google',"IBM",'Netflix'];
+// companies.shift();
+// console.log(companies);
+
+// let companies = ['Bloomberg','Microsoft','Uber','Google',"IBM",'Netflix'];
+// companies.splice(2,1,'OLA');
+// console.log(companies);
+
+// let companies = ['Bloomberg','Microsoft','Uber','Google',"IBM",'Netflix'];
+// companies.push('Amazon')
+// console.log(companies);
