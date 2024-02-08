@@ -408,3 +408,33 @@
 // let user = prompt('enter your name here');
 // let count = user.length;
 // console.log(`@${user}${count}`);
+
+// let numbers = ['mahi','mim','achol'];
+// for(let i = 0; i<numbers.length; i++){
+//   console.log(numbers[i]);
+// }
+// console.log(numbers);
+// let leng = numbers.length;
+// console.log(numbers[0]);
+// console.log(numbers);
+//  numbers[0] = 9;
+//  console.log(numbers);
+
+
+// let names = ['mahi','mim','achol'];
+// for(let name of names){
+//   console.log(name);
+// }
+
+
+// let numbers = [2,4,5,2,9];
+// for(let number of numbers){
+//   console.log(number);
+// }
+
+
+
+// let names = ['mahi','mim','achol'];
+// for(let name of names){
+//   console.log(name.toLocaleUpperCase());
+// }
