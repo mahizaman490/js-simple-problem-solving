@@ -400,3 +400,11 @@
 // let str = 'mahi';
 // let str2 = str.replace('m','t')
 // console.log(str2);
+
+
+//practice problems with string methods and string
+
+
+// let user = prompt('enter your name here');
+// let count = user.length;
+// console.log(`@${user}${count}`);
