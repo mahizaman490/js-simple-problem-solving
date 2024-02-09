@@ -568,3 +568,63 @@
 // return res;
 // }
 
+  // function myFunc(name){
+  //   res = 'welcome to our company ' + name;
+  //   return res;
+  // }
+
+  // function isEven(num){
+  //   if(num%2==0){
+  //     return true;
+  //   }else{
+  //     return false;
+  //   }
+  // }
+
+
+  // function strLength(str){
+  //   res = str.length;
+  //   return res;
+  // }
+
+
+
+  // const arrSum = (a,b) => {
+  //   console.log(a+b);
+  // }
+
+  // const product = (a,b) => {
+  //   return(a*b);
+  // }
+
+
+  // (a,b) => {
+  //   console.log(a,b);
+  // }
+
+  //boro kajer jonno arrow function use korbona
+
+// function vowelCount(str){
+//   let count = 0;
+//   for(let vowel of str){
+//     if(vowel == "a" || vowel == "e" || vowel == "i" || vowel == "o" || vowel == "u" ){
+//       count++
+//     }
+
+
+//   }
+//   return count;
+// }
+
+
+
+//  const vowelCount = (str) => {
+//   count = 0;
+//   for(let vowels of str){
+// if(vowels == "a" || vowels  == 'e' || vowels  == 'i' || vowels  == 'o' || vowels  == 'u'){
+// count++
+// }
+
+//   }
+//   return count;
+// }
