@@ -3,11 +3,21 @@ color: blue;
 background-color: yellow;
 } */
 
-.box{
-    height: 100px;
+/* .box{
+    height: 200px;
     width: 100px;
     border: 2px solid green;
     background: yellow;
     margin: 10px;
     text-align: center;
+} */
+
+
+.content{
+color: white;
+}
+
+.content2{
+    background: red;
+    
 }

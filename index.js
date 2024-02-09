@@ -813,7 +813,61 @@
 
 
 // let divs = document.querySelectorAll(".box");
+// let i = 1
+// for(let div of divs){
+//   // console.log(div);
+//   div.innerText = `this is div ${i}`;
+//   i++
+// }
  
 // divs[0].innerText = 'First div';
 // divs[1].innerText = 'Second div';
 // divs[2].innerText = 'third div';
+
+
+// let divs = document.querySelectorAll(".box");
+
+// let i = 0;
+// for(let div of divs){
+//   div.innerText = `This is div ${i}`;
+//   i++
+// }
+
+
+// let class1 = document.querySelector('div');
+// let newCls = class1.setAttribute("class","area")
+// console.log(newCls);
+// let className = class1.getAttribute('class');
+// console.log(className);
+
+
+// let para = document.querySelector('p');
+// console.log(para.setAttribute("class","para1"));
+
+// let myDiv = document.querySelector("div");
+
+// myDiv.style.backgroundColor = 'black';
+// myDiv.style.color = 'white'
+
+// let newEle = document.createElement('button');
+// newEle.innerText = 'Click me';
+// let div = document.querySelector('div');
+// div.prepend(newEle)
+// div.before(newEle)
+// div.after(newEle)
+// div.append(newEle)
+
+// let myPara = document.querySelector("p");
+// myPara.remove();
+
+
+// let newBtn = document.createElement("button");
+// newBtn.innerText = "Click Me";
+// newBtn.style.backgroundColor = "red";
+// newBtn.style.color = "white";
+// let body = document.querySelector("body");
+// body.prepend(newBtn)
+
+
+// let para = document.querySelector("p");
+// para.classList.add("content2")
