@@ -1,0 +1,13 @@
+/* h1{ 
+color: blue;
+background-color: yellow;
+} */
+
+.box{
+    height: 100px;
+    width: 100px;
+    border: 2px solid green;
+    background: yellow;
+    margin: 10px;
+    text-align: center;
+}

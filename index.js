@@ -759,3 +759,61 @@
 // })
 
 // console.log(product);
+
+
+// console.dir(document.body.childNodes[1]);
+
+// let heading = document.getElementById("heading");
+// console.dir(heading);
+
+// let heading2 = document.getElementsByClassName("heading2");
+// console.dir(heading2);
+// // console.log(heading2);
+
+// let para = document.getElementsByTagName("p");
+// console.dir(para);
+
+// let firstEle = document.querySelector("p");//returns first element 
+// console.dir(firstEle);
+
+// let allElements = document.querySelectorAll("p"); // returns all element
+// console.dir(allElements);
+
+// let allPara = document.querySelectorAll(".para");
+// console.dir(allPara);
+
+
+// let myBtn = document.querySelector("#my-btn");
+// console.dir(myBtn);
+
+// console.log(myBtn.tagName);
+// console.log(myBtn.innerText);
+// console.log(myBtn.innerHTML);
+
+
+// let firstEle = document.querySelector("div").children;
+// console.dir(firstEle);
+
+
+
+// let div = document.querySelector('div');
+// // div.innerText = 'abcd'
+// // div.innerHTML = "<div> Mahi </div>";
+// div.innerHTML ='<li>mahi</li>'
+
+
+
+
+// let h2 = document.querySelector("h2").append(" from apna college")
+
+
+// let h2 = document.querySelector("h2")
+
+// h2.innerText = h2.innerText + " from apna college";
+
+
+// let divs = document.querySelectorAll(".box");
+ 
+// divs[0].innerText = 'First div';
+// divs[1].innerText = 'Second div';
+// divs[2].innerText = 'third div';
