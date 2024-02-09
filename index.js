@@ -726,3 +726,36 @@
 // })
 
 // console.log(myFunc);
+
+// let results = [ 100,99,65,40,50,90,98,92,92];
+// const myFunc = results.filter((num)=>{
+//   return num >= 90; 
+// })
+
+// console.log(myFunc);
+
+
+
+// let n = prompt('Enter a number');
+// let arr = [];
+
+// for(let i = 0; i<=n; i++){
+//   arr[i-1] = i;
+// }
+
+// console.log(arr);
+
+
+//  const myFunc = arr.reduce((pre,current)=>{
+//   return pre + current;
+// })
+
+// console.log(myFunc);
+
+
+
+// const product = arr.reduce((pre,current)=>{
+//   return pre*current;
+// })
+
+// console.log(product);
