@@ -628,3 +628,101 @@
 //   }
 //   return count;
 // }
+
+
+// let arr = [1,2,3,4,5,6];
+
+// arr.forEach(function forSingleValue(value){   //value at each index
+// console.log(value);
+// })
+
+
+
+// let arr = [5,77,90,70,20];
+// arr.forEach(function singleValue(value){
+//   console.log(value/10);
+// })
+
+
+// let arr = [ 1,2,3,4,5];
+// arr.forEach((value)=>{
+//   console.log(value);
+// })
+
+// let str = ['mahi','achol','mim','tunna'];
+// str.forEach((single)=>{
+//   let ans = single.toUpperCase();
+//  console.log(ans);
+// }
+// )
+
+
+
+//** function k perameter hisebe nile othoba function return korle take higher order function bole */
+
+// let arr = [1,2,3,4,5,6,7,8,9];
+
+// arr.forEach((val)=>{
+//   console.log(val*val);
+// })
+
+
+// let numbers = [1,2,3,4,5,6];
+
+// const squrt = (num) => {
+//  console.log(num*num);
+// }
+
+// numbers.forEach(squrt);
+
+//map vs forEach=
+// map returns new Array with operation, forEach return 
+
+
+
+// let numbers = [1,2,3,4,5,6];
+// const myfunc = numbers.map((val)=>{
+//   return val*val;
+// })
+
+
+// console.log(myfunc);
+
+// let numbers = [ 1,2,3,4,5,6,7,8,9,10];
+
+//  const myFunc = numbers.filter((num)=>{
+//   return num > 3;
+// })
+
+// console.log(myFunc);
+
+//when i have many inputs but i have to return one answer, we use reduce  method;
+// let numbers = [ 1,2,3,4];
+
+
+//  let myFunc = numbers.reduce((pre,current)=>{
+//   return pre + current;
+// })
+
+// console.log(myFunc);
+
+
+// let numbers = [ 100,200,300,400,500,600,700,800,900,1000];
+
+// let myFunc = numbers.reduce((pre,curr)=>{
+//   return pre > curr ? pre : curr;
+// })
+
+// console.log(myFunc);
+
+
+
+
+// let numbers = [ 100,200,300,400,500,600,700,800,900,1000];
+
+// const myFunc = numbers.map((val)=>{
+//   let offer = val/10
+//   return val-offer;
+// })
+
+// console.log(myFunc);
