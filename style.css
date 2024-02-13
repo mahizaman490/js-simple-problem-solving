@@ -12,7 +12,7 @@ background-color: yellow;
     text-align: center;
 } */
 
-
+/* 
 .content{
 color: white;
 }
@@ -20,4 +20,22 @@ color: white;
 .content2{
     background: red;
     
+} */
+
+/* 
+div{
+    background: blue;
+    color: white;
+    height:100px;
+    width:200px;
+} */
+
+.dark{
+    background: black;
+    color: white;
+}
+
+.light{
+    background: white;
+    color: black;
 }

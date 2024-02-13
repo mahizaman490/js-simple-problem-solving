@@ -871,3 +871,60 @@
 
 // let para = document.querySelector("p");
 // para.classList.add("content2")
+// let myDiv = document.querySelector('div');
+// myDiv.onclick = () =>{
+//   console.log('clicked');
+//   let a = 25;
+//   a++;
+//   console.log(a);
+// }
+
+// let btn = document.querySelector("button");
+// const handle = () =>{
+  
+// } 
+// btn.onclick = (e) => {
+//   console.log(e.type);
+// }
+
+// btn.addEventListener("click",()=>{
+//   console.log('clicked');
+// })
+// btn.addEventListener("click",()=>{
+//   console.log('clicked 2');
+// })
+
+// const handle = () => {
+// console.log('clicked');
+// }
+
+// btn.addEventListener('click',handle);
+// btn.removeEventListener('click',handle)
+
+
+// let btn = document.querySelector("#btn");
+// let mode = "light";
+// btn.addEventListener("click", () =>{
+// if(mode == "light"){
+//   mode ='dark';
+// }else{
+//   mode ='light';
+// }
+// console.log(mode);
+// })
+
+// let btn = document.querySelector("#btn");
+// let mode = "light";
+
+// btn.addEventListener("click",()=>{
+//   if(mode=="light"){
+//     mode = "dark";
+//     document.querySelector("body").classList.add("dark");
+//     document.querySelector("body").classList.remove("light");
+//   }else{
+//     mode = "light";
+//     document.querySelector("body").classList.add("light");
+//     document.querySelector("body").classList.remove("dark");
+//   }
+//   console.log(mode);
+// })
