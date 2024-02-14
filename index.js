@@ -964,3 +964,45 @@
 // }
 // console.log(mode);
 // })
+
+
+
+// let btn = document.querySelector("button");
+// let body = document.querySelector("body");
+// let mode = "light";
+
+// btn.addEventListener("click",()=>{
+//   if(mode == "light"){
+//     mode = "dark";
+//     body.classList.add("dark");
+//     body.classList.remove("light");
+
+//   }else{
+//     mode = "light";
+//     body.classList.add("light");
+//     body.classList.remove("dark");
+//   }
+//   console.log(mode);
+// })
+
+
+
+let btn1 = document.querySelector("#btn1");
+let btn2 = document.querySelector("#btn2");
+let h1 = document.querySelector("h1");
+let count = 0;
+h1.innerText = count
+btn1.addEventListener("click",()=>{
+  count = count + 1;
+  console.log(count);
+  h1.innerText = count
+
+ 
+})
+
+btn2.addEventListener("click",()=>{
+  count = count - 1;
+  console.log(count);
+  h1.innerText = count
+ 
+})
